@@ -11,7 +11,8 @@ access: http://localhost:5601
 Menu > Management > Dev Tools
 
 ## sample command
-参考サイトを見ながら叩いてみたコマンド郡
+[【Elasticsearch】kuromoji analyzerで出来ることと設定の解説 \- JPDEBUG\.COM](https://jpdebug.com/p/941707)  
+参考サイトを見ながら叩いてみたコマンド
 ```
 GET /_nodes
 
